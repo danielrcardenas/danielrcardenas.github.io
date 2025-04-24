@@ -4,45 +4,44 @@
 
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[MSR'25]</span></strong> <strong> SnipGen: A Mining Repository Framework for Evaluating LLMs for Code.</strong>
- <br/><strong>Daniel Rodríguez-Cárdenas</strong>, Alejandro Velasco, Denys Poshyvanyk. 
+ <br/><strong>Daniel Rodriguez-Cardenas</strong>, Alejandro Velasco, and Denys Poshyvanyk. 
  <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering.</em> 
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'25-NIER]</span></strong> <strong> UniGenCoder: Merging Seq2Seq and Seq2Tree Paradigms for Unified Code Generation.</strong>
- <br/>Liangying Shao, <strong>Yanfu Yan (Co-Frist)</strong>, Denys Poshyvanyk, and Jinsong Su.
- <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering, New Ideas and Emerging Results Track.</em> 
+<li><strong><span style="color: #13825d">[ICST'25]</span></strong> <strong> Testing Practices, Challenges, and Developer Perspectives in Open-Source IoT Platforms.</strong>
+ <br/><strong>Daniel Rodriguez-Cardenas</strong>,Safwat Ali Khan, Prianka Mandal, Adwait Nadkarni, Kevin Moran, and Denys Poshyvanyk.
+ <br/><em>Proceedings of the 18thIEEE International Conference on Software Testing, Verification and Validation.</em> 
+</li>
+</ul>
+<ul style="margin:0 0 8px;">
+<li><strong><span style="color: #13825d">[preprint]</span></strong> <strong> On Explaining (Large) Language Models For Code Using Global Code-Based Explanations.</strong>
+ <br/>David N. Palacio, Dipin Khati, <strong>Daniel Rodriguez-Cardenas</strong>,Alejandro Velasco, and Denys Poshyvanyk. 
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[FSE'24]</span></strong> <strong> Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs.</strong>
- <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, and Steve Rich. 
- <br/><em>Proceedings of the ACM International Conference on the Foundations of Software Engineering.</em> 
+<li><strong><span style="color: #13825d">[ICSE'25-NIER]</span></strong> <strong> How Propense Are Large Language Models at Producing Code Smells? A Benchmarking Study.</strong>
+ <br/>Alejandro Velasco, <strong>Daniel Rodriguez-Cardenas</strong>, David N. Palacio, Luftar Rahman Alif, and Denys Poshyvanyk. 
+ <br/><em>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering.</em>
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'24]</span></strong> <strong> Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports.</strong>
- <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Oscar Chaparro, Kevin Moran, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the IEEE/ACM 46th International Conference on Software Engineering.</em>
+<li><strong><span style="color: #13825d">[ICSE'24-NIER]</span></strong> <strong> Which Syntactic Capabilities Are Statistically Learned by Masked Language Models for Code?.</strong>
+ <br/>Alejandro Velasco, <strong>Daniel Rodriguez-Cardenas</strong>, David N. Palacio, and Denys Poshyvanyk. 
+ <br/><em>Proceedings of the 46th IEEE/ACM International Conference on Software Engineering.</em>
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'24-DS]</span></strong> <strong> On Improving Management of Duplicate Video-Based Bug Reports.</strong>
- <br/><strong>Yanfu Yan</strong>. 
- <br/><em>Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, Doctoral Symposium.</em>
+<li><strong><span style="color: #13825d">[ICSME'23]</span></strong> <strong> Benchmarking Causal Study to Interpret Large Language Models for Source Code.</strong>
+ <br/> <strong>Daniel Rodriguez-Cardenas</strong>, David N. Palacio, and Denys Poshyvanyk. 
+ <br/><em>Proceedings of the 39th International Conference on Software Maintenance and Evolution.</em>
 </li>
 </ul>
 
-<ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[SCAM'23]</span></strong> <strong> ACER: An AST-based Call Graph Generator Framework.</strong>
- <br/>Andrew Chen, <strong>Yanfu Yan</strong>, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the IEEE 23rd International Working Conference on Source Code Analysis and Manipulation.</em>
-</li>
-</ul>
 
 <!-- 
 **Yan, Y.**, Cooper, N., Moran, K., Bavota, G., Poshyvanyk, D., and Rich, S., “Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs”, in Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE’24), Porto de Galinhas, Brazil, July 15-19, 2024.
