@@ -57,7 +57,7 @@ Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Gener
 
 
 
-<!-- <div class="publications">
+<div class="publications">
 <ol class="bibliography">
 
 
@@ -132,10 +132,10 @@ Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Gener
   <script>
       $(document).ready(function () {
           
-          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
+          var gsDataBaseUrl = 'https://raw.githubusercontent.com/danielrcardenas/danielrcardenas.github.io/refs/heads/master/'
           
           $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-              var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
+              var totalCitation = data['publications']['4DbuyrgAAAAJ:8k81kl-MbHgC']['num_citations']
               document.getElementById('total_citation_mtl').innerHTML = totalCitation;
               var citationEles = document.getElementsByClassName('show_paper_citations')
               Array.prototype.forEach.call(citationEles, element => {
@@ -152,7 +152,7 @@ Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Gener
 </li>
 
 </ol>
-</div> -->
+</div>
 
 
 
