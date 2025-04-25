@@ -100,8 +100,6 @@ Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Gener
   </div>
 </div>
 </li>
-
-<br>
 {% endfor %}
 
 <!-- <li>
