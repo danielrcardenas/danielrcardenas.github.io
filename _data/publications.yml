@@ -30,7 +30,7 @@ main:
   - title: Beyond Accuracy and Robustness Metrics for Large Language Models for Code.
     authors: Daniel Rodríguez-Cárdenas
     year: 2024
-    journal: None
+    journal: Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering
     conference_short: ICSE'24
     pdf: https://doi.org/10.1145/3639478.3639792
   - title: Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded
