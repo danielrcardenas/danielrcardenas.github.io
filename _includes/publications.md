@@ -60,16 +60,17 @@ Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Gener
 <div class="publications">
 <ol class="bibliography">
 
+<h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4DbuyrgAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/222/6222.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 {% for link in site.data.publications.main %}
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+ <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
+  </div>-->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}"><strong><span style="color: #13825d">{{link.conference_short}} </span></strong>{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
