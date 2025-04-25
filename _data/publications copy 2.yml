@@ -1,0 +1,109 @@
+main:
+  - title: 'SnipGen: A Mining Repository Framework for Evaluating LLMs for Code.'
+    authors: Daniel Rodríguez-Cárdenas, Alejandro Velasco, Denys Poshyvanyk
+    year: 2025
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2502.07046
+  - title: Testing Practices, Challenges, and Developer Perspectives in Open-Source
+      IoT Platforms.
+    authors: Daniel Rodríguez-Cárdenas, Safwat Ali Khan, Prianka Mandal, Adwait Nadkarni,
+      Kevin Moran, Denys Poshyvanyk
+    year: 2025
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2502.07257
+  - title: On Explaining (Large) Language Models For Code Using Global Code-Based Explanations.
+    authors: David N. Palacio, Dipin Khati, Daniel Rodríguez-Cárdenas, Alejandro Velasco,
+      Denys Poshyvanyk
+    year: 2025
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2503.16771
+  - title: Which Syntactic Capabilities Are Statistically Learned by Masked Language
+      Models for Code?
+    authors: Alejandro Velasco, David N. Palacio, Daniel Rodríguez-Cárdenas, Denys Poshyvanyk
+    year: 2024
+    journal: None
+    conference_short: NIER@ICSE
+    pdf: https://doi.org/10.1145/3639476.3639768
+  - title: Beyond Accuracy and Robustness Metrics for Large Language Models for Code.
+    authors: Daniel Rodríguez-Cárdenas
+    year: 2024
+    journal: None
+    conference_short: ICSE Companion
+    pdf: https://doi.org/10.1145/3639478.3639792
+  - title: Which Syntactic Capabilities Are Statistically Learned by Masked Language
+      Models for Code?
+    authors: Alejandro Velasco, David N. Palacio, Daniel Rodríguez-Cárdenas, Denys Poshyvanyk
+    year: 2024
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2401.01512
+  - title: Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded
+      Explanations.
+    authors: David N. Palacio, Daniel Rodríguez-Cárdenas, Alejandro Velasco, Dipin Khati,
+      Kevin Moran, Denys Poshyvanyk
+    year: 2024
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2407.08983
+  - title: 'Measuring Emergent Capabilities of LLMs for Software Engineering: How Far
+      Are We?'
+    authors: Conor O'Brien, Daniel Rodríguez-Cárdenas, Alejandro Velasco, David N. Palacio,
+      Denys Poshyvanyk
+    year: 2024
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2411.17927
+  - title: On Interpreting the Effectiveness of Unsupervised Software Traceability with
+      Information Theory.
+    authors: David N. Palacio, Daniel Rodríguez-Cárdenas, Denys Poshyvanyk, Kevin Moran
+    year: 2024
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2412.04704
+  - title: How Propense Are Large Language Models at Producing Code Smells? A Benchmarking
+      Study.
+    authors: Alejandro Velasco, Daniel Rodríguez-Cárdenas, David N. Palacio, Luftar
+      Rahman Alif, Denys Poshyvanyk
+    year: 2024
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2412.18989
+  - title: Benchmarking Causal Study to Interpret Large Language Models for Source Code.
+    authors: Daniel Rodríguez-Cárdenas, David N. Palacio, Dipin Khati, Henry Burke,
+      Denys Poshyvanyk
+    year: 2023
+    journal: None
+    conference_short: ICSME
+    pdf: https://doi.org/10.1109/ICSME58846.2023.00040
+  - title: Evaluating and Explaining Large Language Models for Code Using Syntactic
+      Structures.
+    authors: David N. Palacio, Alejandro Velasco, Daniel Rodríguez-Cárdenas, Kevin Moran,
+      Denys Poshyvanyk
+    year: 2023
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2308.03873
+  - title: Benchmarking Causal Study to Interpret Large Language Models for Source Code.
+    authors: Daniel Rodríguez-Cárdenas, David N. Palacio, Dipin Khati, Henry Burke,
+      Denys Poshyvanyk
+    year: 2023
+    journal: CoRR
+    conference_short: None
+    pdf: https://doi.org/10.48550/arXiv.2308.12415
+  - title: 'A model of cultural transmission by direct instruction: An exercise on replication
+      and extension.'
+    authors: David Anzola, Daniel Rodríguez-Cárdenas
+    year: 2018
+    journal: Cogn. Syst. Res.
+    conference_short: None
+    pdf: https://doi.org/10.1016/j.cogsys.2018.07.019
+  - title: Assessing single-objective performance convergence and time complexity for
+      refactoring detection.
+    authors: David Nader-Palacio, Daniel Rodríguez-Cárdenas, Jonatan Gómez
+    year: 2018
+    journal: None
+    conference_short: GECCO (Companion)
+    pdf: https://doi.org/10.1145/3205651.3208294
