@@ -17,7 +17,7 @@ main:
     authors: David N. Palacio, Dipin Khati, Daniel Rodríguez-Cárdenas, Alejandro Velasco,
       Denys Poshyvanyk
     year: 2025
-    journal: CoRR
+    journal: arXiv
     conference_short: Preprint
     pdf: https://doi.org/10.48550/arXiv.2503.16771
   - title: Which Syntactic Capabilities Are Statistically Learned by Masked Language
@@ -38,7 +38,7 @@ main:
     authors: David N. Palacio, Daniel Rodríguez-Cárdenas, Alejandro Velasco, Dipin Khati,
       Kevin Moran, Denys Poshyvanyk
     year: 2024
-    journal: CoRR
+    journal: arXiv
     conference_short: Preprint
     pdf: https://doi.org/10.48550/arXiv.2407.08983
   - title: 'Measuring Emergent Capabilities of LLMs for Software Engineering: How Far
@@ -46,14 +46,14 @@ main:
     authors: Conor O'Brien, Daniel Rodríguez-Cárdenas, Alejandro Velasco, David N. Palacio,
       Denys Poshyvanyk
     year: 2024
-    journal: CoRR
+    journal: arXiv
     conference_short: Preprint
     pdf: https://doi.org/10.48550/arXiv.2411.17927
   - title: On Interpreting the Effectiveness of Unsupervised Software Traceability with
       Information Theory.
     authors: David N. Palacio, Daniel Rodríguez-Cárdenas, Denys Poshyvanyk, Kevin Moran
     year: 2024
-    journal: CoRR
+    journal: arXiv
     conference_short: Preprint
     pdf: https://doi.org/10.48550/arXiv.2412.04704
   - title: How Propense Are Large Language Models at Producing Code Smells? A Benchmarking
@@ -76,22 +76,15 @@ main:
     authors: David N. Palacio, Alejandro Velasco, Daniel Rodríguez-Cárdenas, Kevin Moran,
       Denys Poshyvanyk
     year: 2023
-    journal: CoRR
+    journal: arXiv
     conference_short: Preprint
     pdf: https://doi.org/10.48550/arXiv.2308.03873
-  - title: Benchmarking Causal Study to Interpret Large Language Models for Source Code.
-    authors: Daniel Rodríguez-Cárdenas, David N. Palacio, Dipin Khati, Henry Burke,
-      Denys Poshyvanyk
-    year: 2023
-    journal: CoRR
-    conference_short: Preprint
-    pdf: https://doi.org/10.48550/arXiv.2308.12415
   - title: 'A model of cultural transmission by direct instruction: An exercise on replication
       and extension.'
     authors: David Anzola, Daniel Rodríguez-Cárdenas
     year: 2018
-    journal: Cogn. Syst. Res.
-    conference_short: Preprint
+    journal: Cognitive Systems Research
+    conference_short: CSR'18
     pdf: https://doi.org/10.1016/j.cogsys.2018.07.019
   - title: Assessing single-objective performance convergence and time complexity for
       refactoring detection.
