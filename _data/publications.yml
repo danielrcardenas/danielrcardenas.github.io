@@ -2,8 +2,8 @@ main:
   - title: 'SnipGen: A Mining Repository Framework for Evaluating LLMs for Code.'
     authors: Daniel Rodríguez-Cárdenas, Alejandro Velasco, Denys Poshyvanyk
     year: 2025
-    journal: MSR'25
-    conference_short: Proceedings of the 22nd IEEE/ACM International Conference on Mining Software Repositories
+    journal: Proceedings of the 22nd IEEE/ACM International Conference on Mining Software Repositories 
+    conference_short: MSR'25
     pdf: https://doi.org/10.48550/arXiv.2502.07046
   - title: Testing Practices, Challenges, and Developer Perspectives in Open-Source
       IoT Platforms.
